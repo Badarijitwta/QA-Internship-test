@@ -1,8 +1,13 @@
 # QA-Internship-test
 Indi GG Tech internship
+
+
 <br/> 
-I have answered the multiple choice and theory based questions below and have uploaded the files in main branch of git which required programming<br/> 
+I have answered the multiple choice and theory based questions below and have uploaded the files in main branch of git which required programming<br/> <br/> 
+Question numbers are provided as depicted in the original document<br/> 
 File names<br/> 
+1)Sum_of_Even_Numbers.py<br/> 
+4)Fibonacci_Numbers.py<br/> 
 
 
 <br/>
