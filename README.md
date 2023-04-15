@@ -1,8 +1,9 @@
 # QA-Internship-test
 Indi GG Tech internship
 
+<br/>
+Multiple Choice Questions<br/><br/>
 
-Welcome to the QA Internship Test. The following questions are designed to assess your knowledge and understanding of software testing principles,testing techniques, programming concepts, logic, and related technologies. Please read each question carefully and select the best answer from the choices provided or provide the code solution.
 
 Question [1] <br/>
 What is the main goal of software testing? <br/>
@@ -19,7 +20,7 @@ What is the difference between validation and verification?<br/>
 a. Validation checks if the software meets its requirements, while verification checks if the software is functioning as intended.<br/>
 b. Verification checks if the software meets its requirements, while validation checks if the software is functioning as intended.<br/>
 c. Validation and verification are the same thing.<br/>
-d. None of the above.<br/>
+d. None of the above.<br/><br/>
 
 Answer : <br/>
 b. Verification checks if the software meets its requirements, while validation checks if the software is functioning as intended.<br/><br/>
