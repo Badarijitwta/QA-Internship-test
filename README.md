@@ -75,8 +75,7 @@ Your team is developing an e-commerce website that needs to handle online paymen
 to ensure that the payment process is secure and reliable?<br/>
 
 Answer : <br/>
-To ensure that the payment process in an e-commerce website is secure and reliable, <b>security testing and reliability testing</b><br/>
-has to be performed.<br/>
+To ensure that the payment process in an e-commerce website is secure and reliable, <b>security testing and reliability testing</b> has to be performed.<br/>
 With the goal of ensuring that the system is secure from malicious attacks or unauthorized access. For an e-commerce website, <br/> 
 <b>Security testing</b> would involve testing the payment process to ensure that sensitive customer data (such as credit card numbers) is <br/> 
 transmitted and stored securely, and that the website is protected against common attacks such as cross-site scripting (XSS) and SQL injection.<br/> <br/> 
