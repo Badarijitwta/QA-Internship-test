@@ -1,5 +1,9 @@
 # QA-Internship-test
 Indi GG Tech internship
+<br/> 
+I have answered the multiple choice and theory based questions below and have uploaded the files in main branch of git which required programming<br/> 
+File names<br/> 
+
 
 <br/>
 MULTIPLE CHOICE QUESTIONS<br/><br/>
