@@ -2,7 +2,7 @@
 Indi GG Tech internship
 
 <br/>
-Multiple Choice Questions<br/><br/>
+MULTIPLE CHOICE QUESTIONS<br/><br/>
 
 
 Question [1] <br/>
@@ -24,3 +24,13 @@ d. None of the above.<br/><br/>
 
 Answer : <br/>
 b. Verification checks if the software meets its requirements, while validation checks if the software is functioning as intended.<br/><br/>
+
+What is the purpose of a test plan?<br/>
+a. To define the testing strategy and approach for a project<br/>
+b. To document the test results<br/>
+c. To execute the test cases<br/>
+d. To identify defects in the software<br/><br/>
+
+Answer : <br/>
+a. To define the testing strategy and approach for a project.<br/><br/>
+
