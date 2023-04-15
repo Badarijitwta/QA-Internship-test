@@ -64,7 +64,7 @@ What type of testing would you perform to ensure that the images are uploaded an
 Answer:<br/>
 <b>Visual testing</b> <br/>
 Visual testing is a type of testing that verifies whether the visual aspects of a software application are functioning correctly,
-such as layout, formatting, and the appearance of images and other graphical elements.
+such as layout, formatting, and the appearance of images and other graphical elements.<br/>
 In the case of a web application that allows users to upload and view images, visual testing would involve verifying that the 
 images are displayed correctly on the web page and that they appear as intended. This would include testing that the images are 
 uploaded in the correct format, that they are displayed at the correct size and resolution, and that any text or other graphical 
